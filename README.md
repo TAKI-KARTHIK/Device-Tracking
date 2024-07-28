@@ -6,11 +6,12 @@ A comprehensive Device Tracking System built with JavaScript, Express, Nodemon, 
 - 📊 Data Visualization: View device movement and status through intuitive visualizations.
 - 🔔 Alerts & Notifications: Get notified of important events and changes in device status.
 - 💡 Easy Integration: Simple integration with other systems and services.
-- 🛠️ Technologies Used:
--JavaScript: Core programming language for the application.
--Express: Web framework for building the server-side application.
--Nodemon: Tool for automatically restarting the server during development.
--Socket.io: Library for enabling real-time, bidirectional communication between web clients and servers.
+
+## 🛠️ Technologies Used:
+- JavaScript: Core programming language for the application.
+- Express: Web framework for building the server-side application.
+- Nodemon: Tool for automatically restarting the server during development.
+- Socket.io: Library for enabling real-time, bidirectional communication between web clients and servers.
 
   
 # 🚀 Getting Started
