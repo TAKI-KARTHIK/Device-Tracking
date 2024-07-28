@@ -15,7 +15,7 @@ A comprehensive Device Tracking System built with JavaScript, Express, Nodemon, 
   
 # 🚀 Getting Started
 ## Prerequisites
-Node.js and npm installed on your system.
+Node.js and npm are installed on your system.
 
 ### 🤝 Contributing
 We welcome contributions! If you have suggestions or find any bugs, please open an issue or create a pull request.
