@@ -16,3 +16,17 @@ A comprehensive Device Tracking System built with JavaScript, Express, Nodemon, 
 # 🚀 Getting Started
 ## Prerequisites
 - Node.js and npm installed on your system.
+
+### 🤝 Contributing
+We welcome contributions! If you have suggestions or find any bugs, please open an issue or create a pull request.
+
+1. Fork the Project.
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the Branch (git push origin feature/AmazingFeature).
+5. Open a Pull Request.
+
+### 📧 Contact
+KARTHIK R - karthikr.contact@gmail.com
+
+Project Link: https://github.com/TAKI-KARTHIK/Todo-list--CLI.git
