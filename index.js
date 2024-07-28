@@ -3,6 +3,7 @@ const socketio = require("socket.io");
 const http = require("http");
 const path = require("path");
 const fs = require('fs');
+const { Console } = require("console");
 
 const app = express();
 const server = http.createServer(app);
@@ -14,6 +15,12 @@ app.set('views', viewsPath);
 
 app.set('view engine', 'ejs');
 app.set(express.static(path.join(__dirname, "public")));
+
+io.on("connection", function (socket) {
+    Console.log('connected')
+}
+)
+
 
 fs.readdir(viewsPath, (err, files) => {
     if (err) {
